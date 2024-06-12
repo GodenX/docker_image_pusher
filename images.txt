@@ -1,6 +1,14 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+ollama/ollama:latest
+ghcr.io/open-webui/open-webui:main
+easychen/cookiecloud:latest
+whyour/qinglong:latest
+pjoc/docker-icloudpd:master
+hectorqin/reader:latest
+pymumu/smartdns:latest
+iyuucn/iyuuplus:latest
+containrrr/watchtower:latest
+bytelang/kplayer:latest
+bobzhao1210/diffusion-webui:latest
+breakstring/gpt-sovits:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
