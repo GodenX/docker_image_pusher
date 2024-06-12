@@ -9,6 +9,4 @@ iyuucn/iyuuplus:latest
 containrrr/watchtower:latest
 bytelang/kplayer:latest
 bobzhao1210/diffusion-webui:latest
-breakstring/gpt-sovits:latest
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
+# breakstring/gpt-sovits:latest
