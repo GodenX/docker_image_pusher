@@ -1,3 +1,4 @@
+ghcr.io/home-assistant/amd64-hassio-supervisor:latest
 ollama/ollama:latest
 ghcr.io/open-webui/open-webui:main
 easychen/cookiecloud:latest
