@@ -1,9 +1,9 @@
 stawky/m3e-large-api:latest
-pgvector/pgvector:0.7.0-pg15
-mongo:5.0.18
+# pgvector/pgvector:0.7.0-pg15
+# mongo:5.0.18
 ghcr.io/labring/fastgpt-sandbox:latest
 ghcr.io/labring/fastgpt:latest
-mysql:8.0.36
+# mysql:8.0.36
 ghcr.io/songquanpeng/one-api:latest
 ollama/ollama:latest
 ghcr.io/open-webui/open-webui:main
