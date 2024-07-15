@@ -1,3 +1,5 @@
+ubuntu:24.04
+ubuntu:22.04
 stawky/m3e-large-api:latest
 # pgvector/pgvector:0.7.0-pg15
 # mongo:5.0.18
