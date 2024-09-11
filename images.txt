@@ -1,5 +1,6 @@
-ubuntu:24.04
-ubuntu:22.04
+neilpang/acme.sh:latest
+# ubuntu:24.04
+# ubuntu:22.04
 stawky/m3e-large-api:latest
 # pgvector/pgvector:0.7.0-pg15
 # mongo:5.0.18
@@ -16,6 +17,6 @@ hectorqin/reader:latest
 pymumu/smartdns:latest
 iyuucn/iyuuplus:latest
 containrrr/watchtower:latest
-bytelang/kplayer:latest
+# bytelang/kplayer:latest
 # bobzhao1210/diffusion-webui:latest
 # breakstring/gpt-sovits:latest
