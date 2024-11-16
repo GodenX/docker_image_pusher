@@ -1,3 +1,4 @@
+jxxghp/moviepilot-v2:latest
 ghostchu/peerbanhelper:latest
 neilpang/acme.sh:latest
 # ubuntu:24.04
@@ -12,7 +13,7 @@ ghcr.io/songquanpeng/one-api:latest
 ollama/ollama:latest
 ghcr.io/open-webui/open-webui:main
 easychen/cookiecloud:latest
-whyour/qinglong:latest
+# whyour/qinglong:latest
 pjoc/docker-icloudpd:master
 hectorqin/reader:latest
 pymumu/smartdns:latest
