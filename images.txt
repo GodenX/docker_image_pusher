@@ -1,3 +1,4 @@
+vaultwarden/server:latest
 gitea/gitea:latest
 linuxserver/qbittorrent:5.0.2
 jxxghp/moviepilot-v2:latest
@@ -5,15 +6,15 @@ ghostchu/peerbanhelper:latest
 neilpang/acme.sh:latest
 # ubuntu:24.04
 # ubuntu:22.04
-stawky/m3e-large-api:latest
+# stawky/m3e-large-api:latest
 # pgvector/pgvector:0.7.0-pg15
 # mongo:5.0.18
-ghcr.io/labring/fastgpt-sandbox:latest
-ghcr.io/labring/fastgpt:latest
+# ghcr.io/labring/fastgpt-sandbox:latest
+# ghcr.io/labring/fastgpt:latest
 # mysql:8.0.36
-ghcr.io/songquanpeng/one-api:latest
-ollama/ollama:latest
-ghcr.io/open-webui/open-webui:main
+# ghcr.io/songquanpeng/one-api:latest
+# ollama/ollama:latest
+# ghcr.io/open-webui/open-webui:main
 easychen/cookiecloud:latest
 # whyour/qinglong:latest
 pjoc/docker-icloudpd:master
