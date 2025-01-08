@@ -24,4 +24,4 @@ iyuucn/iyuuplus:latest
 containrrr/watchtower:latest
 # bytelang/kplayer:latest
 # bobzhao1210/diffusion-webui:latest
-# breakstring/gpt-sovits:latest
+breakstring/gpt-sovits:latest
