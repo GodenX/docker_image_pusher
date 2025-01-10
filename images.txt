@@ -1,6 +1,6 @@
 vaultwarden/server:latest
 gitea/gitea:latest
-linuxserver/qbittorrent:5.0.2
+linuxserver/qbittorrent:5.0.3
 jxxghp/moviepilot-v2:latest
 ghostchu/peerbanhelper:latest
 neilpang/acme.sh:latest
