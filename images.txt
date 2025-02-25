@@ -1,3 +1,4 @@
+redis:latest
 lobehub/lobe-chat:latest
 vaultwarden/server:latest
 gitea/gitea:latest
