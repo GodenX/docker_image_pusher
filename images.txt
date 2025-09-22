@@ -1,7 +1,8 @@
 postgres:16
 joplin/server:latest
-redis:latest
-lobehub/lobe-chat:latest
+joplin/transcribe:latest
+# redis:latest
+# lobehub/lobe-chat:latest
 vaultwarden/server:latest
 gitea/gitea:latest
 # linuxserver/qbittorrent:5.0.3
